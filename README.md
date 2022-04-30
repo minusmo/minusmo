@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minusmo
-- 👀 I’m interested in programming and development(web, mobile, server, AI etc...)
+- 👀 I’m interested in programming and development(web, mobile, AI etc...)
 - 🌱 I’m currently learning DataStructures and Algorithms
 - 💞️ I’m looking to collaborate on web and App development
 - 📫 How to reach me -> bldolphin96@gmail.com
-
+- I'm looking forward to work with many passionate programmers!!!
