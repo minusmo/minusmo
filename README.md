@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @minusmo
+- 👋 Hi, I’m @HoJoon Eum, 22-23 GDSC CAU Lead
 - 👀 I’m interested in programming and development(web, mobile, AI etc...)
-- 🌱 I’m currently learning DataStructures and Algorithms
-- 💞️ I’m looking to collaborate on web and App development
+- 🌱 I’m currently learning Architecture Patterns and Cloud Services
+- 💞️ I’m looking to collaborate on various types of applications
 - 📫 How to reach me -> bldolphin96@gmail.com
 - I'm looking forward to work with many passionate programmers!!!
