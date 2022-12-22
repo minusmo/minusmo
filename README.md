@@ -1,4 +1,12 @@
 ## Now passionate for Frontend works...
+- Web FrontEnd
+  - Custom Elements, React.js
+  - Managing client side state with Data Binding architecture as MVVM
+- Mobile Client
+  - Flutter, React Native
+  - Clean Architecture on Mobile Apps
+
+
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=minusmo&theme=java-dark)](https://github.com/minusmo) 
 [![minusmo's github stats](https://github-readme-stats.vercel.app/api?username=minusmo&show_icons=true&theme=codeSTACKr)](https://github.com/minusmo)  
 [![Solved.ac
