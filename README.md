@@ -1,4 +1,9 @@
-## Now passionate for Frontend works...
+## What I am interested in these days...
+- Clean and Readable code
+- Programming Philosophy
+- Agile Process
+- How to build a Good Team
+- How the tasks should be done for the sucessful events
 - Web FrontEnd
   - Custom Elements, React.js
   - Managing client side state with Data Binding architecture as MVVM
