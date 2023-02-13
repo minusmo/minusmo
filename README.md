@@ -20,7 +20,7 @@
   - RPC
   - GraphQL
   - Proper Architecture for resilient services
-
+- Computer Graphics
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=minusmo&theme=java-dark)](https://github.com/minusmo) 
 [![minusmo's github stats](https://github-readme-stats.vercel.app/api?username=minusmo&show_icons=true&theme=codeSTACKr)](https://github.com/minusmo)  
