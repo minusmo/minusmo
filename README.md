@@ -5,22 +5,22 @@
 - How to build a Good Team
 - How the tasks should be done for the sucessful events
 - Efficient Algorithms and Data Structures for the challenges in the Real World
-- Efficient and Realiable internet protocol management in Internet Services
 - Site Reliability Engineering
 - Highly Reliable and Recoverable Infrastructure on Cloud Services
 - Monolithic and Micro Services
 - Web FrontEnd
-  - Custom Elements, React.js
-  - Managing client side state with Data Binding architecture as MVVM
-- Mobile Client
-  - Flutter, React Native
-  - Clean Architecture on Mobile Apps
+  - Web Components, React.js
+  - Managing client side state with integrity in consistency
 - BackEnd Services
   - RESTful APIs
-  - RPC
+  - RPCs
   - GraphQL
   - Proper Architecture for resilient services
 - Computer Graphics
+  - libraries: OpenGL, Vulkan
+  - 3D rendering
+  - raster graphics
+  - vector graphics
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=minusmo&theme=java-dark)](https://github.com/minusmo) 
 [![minusmo's github stats](https://github-readme-stats.vercel.app/api?username=minusmo&show_icons=true&theme=codeSTACKr)](https://github.com/minusmo)  
