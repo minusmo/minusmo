@@ -1,4 +1,4 @@
-## What I am interested in these days...
+## Subjects that I am interested in these days...
 - Clean and Readable code
 - Programming Philosophy
 - Agile Process
@@ -22,8 +22,21 @@
   - raster graphics
   - vector graphics
 
+## Observed Problems
+There are a lot of problems in the real world about Computer Science.  
+And they can be classified into 2 major categories.
+**Problems due to Lack of Appropriate Machinary Solutions and Mechanisms for Computing** and 
+**Problems due to Lack of Appropriate Digital Solutions between Human and Machine(which bridges other human)**.   
+Those problems within the categories are not absolutely separated.  
+There is a intersection between them definitely.  
+---
+### Problems due to Lack of Appropriate Machinary Solutions and Mechanisms for Computing
+- [ ] Lack of efficient way for solving problem related to real world requiring explosive cost.
+
+
+### Problems due to Lack of Appropriate Digital Solutions between Human and Machine(which bridges other human)
+- [ ] Lack of proper digital solution for recording and analyzing Human life by themselves.
+- [ ] Lack of efficient and easy way to utilize computing resource and construct own solution by Human without knowledge of IT systems.
+
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=minusmo&theme=java-dark)](https://github.com/minusmo) 
 [![minusmo's github stats](https://github-readme-stats.vercel.app/api?username=minusmo&show_icons=true&theme=codeSTACKr)](https://github.com/minusmo)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minusmo)](https://solved.ac/minusmo) 
-<img src="http://mazandi.herokuapp.com/api?handle=minusmo&theme=cold"/>
