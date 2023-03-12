@@ -8,6 +8,7 @@
 - Site Reliability Engineering
 - Highly Reliable and Recoverable Infrastructure on Cloud Services
 - Monolithic and Micro Services
+- Building Robust Software through proper SW architecture and patterns.
 - Web FrontEnd
   - Web Components, React.js
   - Managing client side state with integrity in consistency
@@ -17,16 +18,17 @@
   - GraphQL
   - Proper Architecture for resilient services
 - Computer Graphics
-  - libraries: OpenGL, Vulkan
+  - Libraries: OpenGL, Vulkan
   - 3D rendering
-  - raster graphics
-  - vector graphics
+  - Raster graphics
+  - Vector graphics
+  - Shader Programming
 
 ## Observed Problems
 There are a lot of problems in the real world about Computer Science.  
-And they can be classified into 2 major categories.
-**Problems due to Lack of Appropriate Machinary Solutions and Mechanisms for Computing** and 
-**Problems due to Lack of Appropriate Digital Solutions between Human and Machine(which bridges other human)**.   
+And they can be classified into 2 major categories.  
+**Problems due to Lack of Appropriate Machinary Solutions and Mechanisms for Computing**.  
+and **Problems due to Lack of Appropriate Digital Solutions between Human and Machine(which bridges other human)**.   
 Those problems within the categories are not absolutely separated.  
 There is a intersection between them definitely.  
 ---
