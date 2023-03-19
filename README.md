@@ -42,5 +42,4 @@ There is a intersection between them definitely.
 - [ ] Lack of efficient and easy way to utilize computing resource and construct own solution by Human without knowledge of IT systems.
 - [ ] Lack of rich and explicit way to see(visualize) the network between each other in Social Network.
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=minusmo&theme=java-dark)](https://github.com/minusmo) 
 [![minusmo's github stats](https://github-readme-stats.vercel.app/api?username=minusmo&show_icons=true&theme=codeSTACKr)](https://github.com/minusmo)  
