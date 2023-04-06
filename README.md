@@ -23,6 +23,8 @@
   - Raster graphics
   - Vector graphics
   - Shader Programming
+  - Shading Language
+  - Rendering Pipeline
 
 ## Observed Problems
 There are a lot of problems in the real world about Computer Science.  
