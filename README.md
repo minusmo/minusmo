@@ -15,6 +15,7 @@
   - Shader Programming
   - Shading Language
   - Rendering Pipeline
+  - Physical Simulation
 
 ## Observed Problems
 There are a lot of problems in the real world about Computer Science.  
