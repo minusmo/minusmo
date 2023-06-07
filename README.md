@@ -23,6 +23,7 @@
 - Parallel Computing
   - NUMA Architecture
 - Consistency and Integrity all over the systems
+- Network Protocols
 
 ## Observed Problems
 There are a lot of problems in the real world about Computer Science.  
