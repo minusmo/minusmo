@@ -1,1 +1,1 @@
-![greeting message for visitors](https://github.com/minusmo/minusmo/assets/greeting.gif)
+![greeting message for visitors](/assets/greeting.gif)
