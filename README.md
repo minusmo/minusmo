@@ -1,4 +1,8 @@
-# Good to see you here!
-![tom.gif](https://github.com/minusmo/minusmo/blob/main/assets/tom.gif)
-# What brought you here❓
-✉️ Please leave a message [here](https://amans-cumulus.tistory.com/guestbook).
+# Good Writings worth shared with
+- Architecture of a Database System by *Joseph M. Hellerstein1, Michael Stonebraker2
+and James Hamilton3*
+
+
+
+
+Ver 2.1.0
