@@ -2,6 +2,7 @@
 - Architecture of a Database System by *Joseph M. Hellerstein1, Michael Stonebraker2
 and James Hamilton3*
 - What Problems to Solve - by *Richard Feynman*
+- [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd) - *Kent Beck*
 
 # Good thoughts worth shared with
 - "the overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used" - *Gene Amdahl*
