@@ -13,11 +13,11 @@ and James Hamilton3*
 
 # Currently work with
 ## Terminal
+- fish
 - zsh
 - ghostty
 - iterm2
 - warp
-- fishshell
 - nushell
 
 ## Command Line Tools
@@ -33,16 +33,16 @@ and James Hamilton3*
 
 ## IDE
 - Neovim
-  - Nvchad
-  - Harpoon
-  - markview
-- Pycharm
+  - LazyVim
+  - Harpoon2
 - Zed
+- Pycharm
 
 ## AI
 - Claude Code
 - Claude
 - Perplexity
+- Codex
 - Gemini
 - Chat GPT
 - V0
@@ -85,3 +85,5 @@ and James Hamilton3*
 - Logitech M650
 - Logitech MX Master 3
 
+## Othertools
+- Cursorcerer
