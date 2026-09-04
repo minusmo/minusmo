@@ -28,13 +28,13 @@ and James Hamilton3*
 - tmux
 - htop
 - mole
-- skhd
+- hammerspoon
+- yazi
 - ripgrep
 
-## IDE
+## Editor
+- Helix
 - Neovim
-  - LazyVim
-  - Harpoon2
 - Zed
 - Pycharm
 
@@ -42,6 +42,8 @@ and James Hamilton3*
 - Claude Code
 - Claude
 - Perplexity
+- Grok Build
+- Grok Bot
 - Codex
 - Gemini
 - Chat GPT
